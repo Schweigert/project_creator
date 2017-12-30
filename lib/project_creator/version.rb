@@ -1,3 +1,3 @@
 module ProjectCreator
-  VERSION = '2017.12.31'.freeze
+  VERSION = '2018.1.1'.freeze
 end
