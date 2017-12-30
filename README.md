@@ -1,3 +1,5 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ce62455c3c79499796aa670849de871d)](https://www.codacy.com/app/Schweigert/project_creator?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Schweigert/project_creator&amp;utm_campaign=Badge_Grade)
+
 # ProjectCreator
 
 Create your project from a hash!

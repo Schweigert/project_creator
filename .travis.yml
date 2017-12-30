@@ -1,0 +1,10 @@
+language: ruby
+
+sudo: true
+
+rvm:
+  - 2.2
+
+script:
+  - 'export PULL_REQUEST_ID=${TRAVIS_PULL_REQUEST} && bundle exec pronto run -f github_pr -c origin/${TRAVIS_BRANCH}'
+  - bundle exec rspec
